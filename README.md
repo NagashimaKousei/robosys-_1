@@ -34,3 +34,5 @@ echo 0 > dev/myled0
 https://github.com/ryunosukesato/robosys_Kadai1_2
 
 I had an abstract conversation with a friend about what to write about the README.
+
+The link above is that friend's link

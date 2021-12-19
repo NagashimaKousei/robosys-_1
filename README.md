@@ -31,5 +31,4 @@ echo 1 > dev/myled0
 echo 0 > dev/myled0
 
 # consultant
-link
-
+https://github.com/ryunosukesato/robosys_Kadai1_2
